@@ -1,0 +1,6 @@
+{"id":76955,"first_name":"Hard","middle_name":"Auto Testing","last_name":"Skills","date_of_birth":"01.10.2020"}
+76955
+{"status":"true","msg":"Add  data success"}
+{"Message":"An error has occurred."}
+b'{"Message":"An error has occurred."}'
+http://thetestingworldapi.com/api/finalstudentdetails/76955
