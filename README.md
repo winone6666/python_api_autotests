@@ -1,2 +1,2 @@
 # python_autotests
-Autotest projects based on selenium and python (UI testing)
+Autotest projects based on api requst library.
